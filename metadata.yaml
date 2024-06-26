@@ -1,0 +1,39 @@
+_repo: The-letters-of-Robert-Browning-and-Elizabeth-Barrett-Barrett-Vol-2-of-2-1845-1846_73891
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Browning
+  - agent_name: Browning, Elizabeth Barrett
+    alias: Barrett-Browning, Elizabeth
+    birthdate: 1806
+    deathdate: 1861
+    gutenberg_agent_id: '781'
+    url: http://www.gutenberg.org/2009/agents/781
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning
+description: ''
+gutenberg_issued: '2024-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73891'
+language: en
+pgterms:marc904: https://archive.org/details/lettersofrobertb02browuoft/page/n9/mode/2up
+pgterms:marc905: 20200521205143browning
+pgterms:marc906: '1899'
+pgterms:marc907: GB
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aLondon :$bSmith, Elder & Co., $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The letters of Robert Browning and Elizabeth Barrett Barrett, Vol. 2 (of 2)
+  1845-1846
+url: http://www.gutenberg.org/ebooks/73891
